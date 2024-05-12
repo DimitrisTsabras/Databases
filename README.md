@@ -1,1 +1,1 @@
-Στο συγκεκριμένο πρότζεκτ, υλοποιήθηκε το Α μέρος που αφορούσε τον κώδικα σε Sql.
+In this project, Part A was solved by using the SQL programming language.

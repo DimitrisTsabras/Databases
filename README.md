@@ -1,1 +1,1 @@
-In this project, Part A was solved by using the SQL programming language.
+Σε αυτό το πρότζεκτ, υλοποιήθηκε το Α μέρος που αφορά τη γλώσσα προγραμματισμού SQL.

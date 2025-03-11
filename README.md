@@ -1,1 +1,1 @@
-Σε αυτό το πρότζεκτ, υλοποιήθηκε το Α μέρος που αφορά τη γλώσσα προγραμματισμού SQL.
+This project was developed for Databases. The programming language used was MySQL. Select, Stored proceduresm, triggers and huge dataset usage are the basic things used.
